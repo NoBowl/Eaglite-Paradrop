@@ -1,0 +1,11 @@
+name: Eaglite Paradrop
+version: 1.0.2
+main: com.eagliteparadrop.EagliteParadrop
+api-version: 1.21
+
+commands:
+  paradrop:
+    description: Drops a crate with loot from the sky.
+    usage: /paradrop <type> <quantity>
+    permission: eagliteparadrop.command.paradrop
+    permission-message: Nope!
