@@ -1,6 +1,6 @@
 # EagliteParadrop
 
-EagliteParadrop is a Minecraft plugin that allows players to drop customizable crates filled with loot from the sky. This plugin is designed for Minecraft version 1.21 and offers a variety of features to enhance gameplay.
+EagliteParadrop is a Minecraft plugin for Eaglite that allows players to drop customizable crates filled with loot from the sky. This plugin is designed for Minecraft version 1.21.
 
 ## Features
 
@@ -27,10 +27,6 @@ The plugin can be configured both in-game and through the `plugin.yml` file. Pla
 ## Usage
 
 To drop a crate, use the `/paradrop` command followed by the desired parameters. Ensure you have the necessary permissions to execute this command.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests to improve the plugin.
 
 ## License
 
